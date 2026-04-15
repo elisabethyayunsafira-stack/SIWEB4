@@ -1,0 +1,20 @@
+/* ── SHARED STYLES for all pages ── */
+/* Import in each page via <style> tag or global.css */
+
+:root {
+  --bg: #090910;
+  --surface: #0f0f1a;
+  --surface2: #13131f;
+  --border: rgba(255,255,255,0.07);
+  --purple: #a855f7;
+  --cyan: #22d3ee;
+  --pink: #f472b6;
+  --red: #f87171;
+  --amber: #f59e0b;
+  --green: #4ade80;
+  --text: #e5e7eb;
+  --muted: #6b7280;
+  --mono: 'Share Tech Mono', monospace;
+  --display: 'Orbitron', sans-serif;
+  --body: 'Rajdhani', sans-serif;
+}
