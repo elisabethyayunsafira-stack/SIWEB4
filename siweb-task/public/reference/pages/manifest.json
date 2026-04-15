@@ -1,0 +1,62 @@
+[
+  {
+    "page": 1,
+    "fileName": "page-01.png",
+    "width": 4080,
+    "height": 1802
+  },
+  {
+    "page": 2,
+    "fileName": "page-02.png",
+    "width": 3924,
+    "height": 2310
+  },
+  {
+    "page": 3,
+    "fileName": "page-03.png",
+    "width": 4240,
+    "height": 2690
+  },
+  {
+    "page": 4,
+    "fileName": "page-04.png",
+    "width": 4018,
+    "height": 2334
+  },
+  {
+    "page": 5,
+    "fileName": "page-05.png",
+    "width": 3972,
+    "height": 2338
+  },
+  {
+    "page": 6,
+    "fileName": "page-06.png",
+    "width": 5094,
+    "height": 2416
+  },
+  {
+    "page": 7,
+    "fileName": "page-07.png",
+    "width": 4000,
+    "height": 2438
+  },
+  {
+    "page": 8,
+    "fileName": "page-08.png",
+    "width": 4000,
+    "height": 2374
+  },
+  {
+    "page": 9,
+    "fileName": "page-09.png",
+    "width": 4000,
+    "height": 2496
+  },
+  {
+    "page": 10,
+    "fileName": "page-10.png",
+    "width": 2774,
+    "height": 7842
+  }
+]
